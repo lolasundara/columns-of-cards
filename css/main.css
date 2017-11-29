@@ -41,7 +41,7 @@ h2 {
   font-weight: bold;
   margin-left: .75em;
   margin-top: 1.78em;
-  margin-bottom: .5em;
+  margin-bottom: .3em;
 }
 
 h3 {
@@ -50,15 +50,16 @@ h3 {
   font-size: .875rem;
   margin-left: .75em;
   margin-top: 0;
-  margin-bottom: .5em;
+  margin-bottom: .3em;
 }
 
 p {
   font-family: Open Sans, sans-serif;
-  font-size: .875rem;
+  font-size: 1rem;
   margin-left: .75em;
   margin-right: 1.5rem;
   margin-top: 0;
+  line-height: 1.5;
 }
 
 .book {
