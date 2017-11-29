@@ -1,0 +1,54 @@
+html {
+  box-sizing: border-box;
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
+body {
+  margin: 0;
+}
+
+header {
+  text-align: center;
+  font-family: Open Sans, sans-serif;
+  color: #333;
+}
+
+h1 {
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+img {
+  width: 100%;
+  max-width: 100px;
+}
+
+div {
+  display: inline-block;
+}
+
+h2 {
+  font-family: Open Sans, sans-serif;
+  font-size: .875rem;
+  font-weight: bold;
+}
+
+h3 {
+  font-family: Open Sans, sans-serif;
+  font-style: italic;
+  font-size: .875rem;
+}
+
+p {
+  font-family: Open Sans, sans-serif;
+  font-size: .875rem;
+}
+
+.book {
+  display: inline-block;
+  float: left;
+  width: 25%;
+}
