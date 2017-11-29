@@ -8,6 +8,7 @@ html {
 
 body {
   margin: 0;
+  background-color: #e2e2e2;
 }
 
 header {
@@ -19,14 +20,14 @@ header {
 h1 {
   font-size: 2rem;
   margin-top: .77em;
-  margin-bottom: .77em;
+  margin-bottom: 1.2em;
 }
 
 img {
   display: block;
   width: 100%;
   max-width: 100px;
-  margin-left: 1.5rem;
+  margin-left: 1.5em;
 }
 
 div {
@@ -37,17 +38,22 @@ h2 {
   font-family: Open Sans, sans-serif;
   font-size: .875rem;
   font-weight: bold;
+  margin-left: .75em;
+  margin-top: 1.78em;
 }
 
 h3 {
   font-family: Open Sans, sans-serif;
   font-style: italic;
   font-size: .875rem;
+  margin-left: .75em;
 }
 
 p {
   font-family: Open Sans, sans-serif;
   font-size: .875rem;
+  margin-left: .75em;
+  margin-right: 1.5rem;
 }
 
 .book {
@@ -66,4 +72,8 @@ p {
   border: 3px solid #333;
   font-size: 1.125rem;
   text-decoration: none;
+}
+
+.one {
+  padding:
 }
