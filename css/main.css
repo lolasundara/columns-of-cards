@@ -28,6 +28,7 @@ img {
   width: 100%;
   max-width: 100px;
   margin-left: 1.5em;
+  margin-bottom: 1.75em;
 }
 
 div {
@@ -40,6 +41,7 @@ h2 {
   font-weight: bold;
   margin-left: .75em;
   margin-top: 1.78em;
+  margin-bottom: .5em;
 }
 
 h3 {
@@ -47,6 +49,8 @@ h3 {
   font-style: italic;
   font-size: .875rem;
   margin-left: .75em;
+  margin-top: 0;
+  margin-bottom: .5em;
 }
 
 p {
@@ -54,6 +58,7 @@ p {
   font-size: .875rem;
   margin-left: .75em;
   margin-right: 1.5rem;
+  margin-top: 0;
 }
 
 .book {
@@ -72,8 +77,4 @@ p {
   border: 3px solid #333;
   font-size: 1.125rem;
   text-decoration: none;
-}
-
-.one {
-  padding:
 }
