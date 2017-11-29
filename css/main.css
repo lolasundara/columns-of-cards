@@ -8,7 +8,7 @@ html {
 
 body {
   margin: 0;
-  background-color: #e2e2e2;
+  background-color: #f2f2f2;
 }
 
 header {
@@ -28,7 +28,7 @@ img {
   width: 100%;
   max-width: 100px;
   margin-left: 1.5em;
-  margin-bottom: 1.75em;
+  margin-bottom: 1.5em;
 }
 
 div {
@@ -60,6 +60,7 @@ p {
   margin-right: 1.5rem;
   margin-top: 0;
   line-height: 1.5;
+  margin-bottom: 1.5em;
 }
 
 .book {
@@ -78,4 +79,9 @@ p {
   border: 3px solid #333;
   font-size: 1.125rem;
   text-decoration: none;
+  margin-left: .75em;
+}
+
+div .book .one{
+  background-color: #e2e2e2;
 }
