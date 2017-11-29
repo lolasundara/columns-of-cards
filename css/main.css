@@ -18,10 +18,11 @@ header {
 
 h1 {
   font-size: 2rem;
-  font-weight: bold;
+  margin-top: 1em;
 }
 
 img {
+  display: block;
   width: 100%;
   max-width: 100px;
   margin-left: 1.5rem;
@@ -53,4 +54,15 @@ p {
   float: left;
   width: 25%;
 
+}
+
+.btn {
+  display: inline-block;
+  padding: .4em .75em .3em;
+  background-color: #333;
+  color: #fff;
+  border-radius: 8px;
+  border: 3px solid #333;
+  font-size: 1.125rem;
+  text-decoration: none;
 }
