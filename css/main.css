@@ -24,6 +24,7 @@ h1 {
 img {
   width: 100%;
   max-width: 100px;
+  margin-left: 1.5rem;
 }
 
 div {
@@ -51,4 +52,5 @@ p {
   display: inline-block;
   float: left;
   width: 25%;
+
 }
