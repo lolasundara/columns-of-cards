@@ -1,5 +1,6 @@
 html {
   box-sizing: border-box;
+  font-family: 'Open Sans', sans-serif;
 }
 
 *, *::before, *::after {
@@ -20,7 +21,7 @@ header {
 h1 {
   font-size: 2rem;
   margin-top: .77em;
-  margin-bottom: 1.2em;
+  margin-bottom: .9em;
 }
 
 img {
@@ -29,6 +30,9 @@ img {
   max-width: 100px;
   margin-left: 1.5em;
   margin-bottom: 1.5em;
+  margin: auto;
+  padding-top: .75em;
+  padding-bottom: 1.5em;
 }
 
 div {
@@ -36,16 +40,14 @@ div {
 }
 
 h2 {
-  font-family: Open Sans, sans-serif;
   font-size: .875rem;
   font-weight: bold;
   margin-left: .75em;
-  margin-top: 1.78em;
+  margin-top: 1.5em;
   margin-bottom: .3em;
 }
 
 h3 {
-  font-family: Open Sans, sans-serif;
   font-style: italic;
   font-size: .875rem;
   margin-left: .75em;
@@ -54,7 +56,6 @@ h3 {
 }
 
 p {
-  font-family: Open Sans, sans-serif;
   font-size: 1rem;
   margin-left: .75em;
   margin-right: 1.5rem;
@@ -82,6 +83,19 @@ p {
   margin-left: .75em;
 }
 
-div .book .one{
+.one {
   background-color: #e2e2e2;
+  border
+}
+
+.two {
+  background-color: #ccc;
+}
+
+.three {
+  background-color: #aaa;
+}
+
+.four {
+  background-color: #999;
 }
