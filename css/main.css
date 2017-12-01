@@ -38,10 +38,10 @@ div {
 }
 
 h2 {
-  font-size: .875rem;
+  font-size: .895rem;
   font-weight: bold;
   margin-left: .75em;
-  margin-top: 1.5em;
+  margin-top: .25em;
   margin-bottom: .3em;
 }
 
@@ -51,6 +51,7 @@ h3 {
   margin-left: .75em;
   margin-top: 0;
   margin-bottom: .3em;
+  font-weight: normal;
 }
 
 p {
@@ -95,4 +96,10 @@ p {
 
 .four {
   background-color: #999;
+}
+
+.btn:hover {
+  background-color: #000;
+  color: #fff;
+  border-color: #000;
 }
