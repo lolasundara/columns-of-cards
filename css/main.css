@@ -1,6 +1,9 @@
 html {
   box-sizing: border-box;
   font-family: "Open Sans", sans-serif;
+  margin-left: 1em;
+  margin-right: 1em;
+  margin-bottom: 1em;
 }
 
 *, *::before, *::after {
@@ -60,14 +63,14 @@ p {
   margin-right: 1.5rem;
   margin-top: 0;
   line-height: 1.5;
-  margin-bottom: 1.5em;
+  margin-bottom: 1.4em;
 }
 
 .book {
   display: inline-block;
   float: left;
   width: 25%;
-
+  padding-bottom: 3em;
 }
 
 .btn {
@@ -102,4 +105,9 @@ p {
   background-color: #000;
   color: #fff;
   border-color: #000;
+}
+
+.btn-small {
+  padding: .45em;
+  font-size: .875rem;
 }
