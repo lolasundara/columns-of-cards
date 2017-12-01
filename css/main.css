@@ -1,6 +1,6 @@
 html {
   box-sizing: border-box;
-  font-family: 'Open Sans', sans-serif;
+  font-family: "Open Sans", sans-serif;
 }
 
 *, *::before, *::after {
@@ -14,7 +14,7 @@ body {
 
 header {
   text-align: center;
-  font-family: Open Sans, sans-serif;
+  font-family: "Open Sans", sans-serif;
   color: #333;
 }
 
@@ -28,8 +28,6 @@ img {
   display: block;
   width: 100%;
   max-width: 100px;
-  margin-left: 1.5em;
-  margin-bottom: 1.5em;
   margin: auto;
   padding-top: .75em;
   padding-bottom: 1.5em;
